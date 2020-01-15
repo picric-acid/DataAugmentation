@@ -6,7 +6,7 @@
 
 - Installation
 
-``pip install git+https://github.com/oka-yuma/DataAugmentation.git -t "Library Root Path"``
+``pip install git+https://github.com/picric-acid/DataAugmentation.git -t "Library Root Path"``
 
 ---
 
